@@ -1,28 +1,40 @@
-name: Medical Collective Media
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.3842425812035799
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.1173526223283261
-  lightness: 0.2625709173735231
-  saturation: 0.754759264877066
-  rhythmicContrast: 0.5374183633830398
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.754759264877066
+  lightness: 0.2625709173735231
+  brandStrength: 1
+  brandColors:
+    - '#060605'
+    - '#9A9188'
+    - '#FFFFFF'
+    - '#BEB5B3'
+    - '#B58F4C'
+  rhythmicContrast: 0.5374183633830398
+typography_spectrum: 0.2504216
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.1357504
+favicon: null
+name: Medical Collective Media
