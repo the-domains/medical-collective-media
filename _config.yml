@@ -1,0 +1,28 @@
+name: Medical Collective Media
+favicon: null
+layout_spectrum: 0.1933737730141729
+typography_spectrum: 0.3842425812035799
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1173526223283261
+  lightness: 0.2625709173735231
+  saturation: 0.754759264877066
+  rhythmicContrast: 0.5374183633830398
+purpose: []
